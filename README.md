@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### ❤️
-[![My Skills](https://skillicons.dev/icons?i=ts,react,go,flutter,dart)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,go,flutter,dart,rust)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KLAKALU)](https://github.com/anuraghazra/github-readme-stats)
 
