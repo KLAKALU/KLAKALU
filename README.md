@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### ❤️
-[![My Skills](https://skillicons.dev/icons?i=ts,react,go,tailwind,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,tailwind,go,rust,cloudflare)](https://skillicons.dev)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KLAKALU&theme=dracula)
 
